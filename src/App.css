@@ -1,0 +1,13 @@
+body{
+  background-color: yellowgreen;
+
+}
+button{
+  background-color: brown;
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+h1{
+  text-align: center;
+}
